@@ -5,9 +5,10 @@ const style = {
   bottom: '20px',
   width: '100%',
   padding: '20px',
-  background: 'black',
-  color: 'white',
-  fontFamily: 'monospace',
+  background: '#FDFEFE',
+  color: '#05416B',
+  fontFamily: 'Roboto Condensed',
+  fontWeight: 'bold',
   textAlign: 'left'
 };
 
